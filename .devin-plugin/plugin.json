@@ -230,36 +230,6 @@
     "./plugins/you-com-research",
     "./plugins/zapier",
     {
-      "source": "git-subdir",
-      "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-      "path": "plugins/aws-agents",
-      "sha": "70ee87e1ec17bcbd93a9b4bdd700272dcd04ae13"
-    },
-    {
-      "source": "git-subdir",
-      "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-      "path": "plugins/aws-agents-for-devsecops",
-      "sha": "70ee87e1ec17bcbd93a9b4bdd700272dcd04ae13"
-    },
-    {
-      "source": "git-subdir",
-      "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-      "path": "plugins/aws-core",
-      "sha": "70ee87e1ec17bcbd93a9b4bdd700272dcd04ae13"
-    },
-    {
-      "source": "git-subdir",
-      "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-      "path": "plugins/aws-data-analytics",
-      "sha": "70ee87e1ec17bcbd93a9b4bdd700272dcd04ae13"
-    },
-    {
-      "source": "git-subdir",
-      "url": "https://github.com/aws/agent-toolkit-for-aws.git",
-      "path": "plugins/aws-startup-advisor",
-      "sha": "70ee87e1ec17bcbd93a9b4bdd700272dcd04ae13"
-    },
-    {
       "source": "url",
       "url": "https://github.com/cloudflare/skills.git",
       "sha": "41e0d19858946d18af9ee2c2feebbe2e11d829ff"
