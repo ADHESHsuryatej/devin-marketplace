@@ -3,7 +3,7 @@
   "displayName": "Dynatrace",
   "description": "Query logs, metrics, and events with DQL, investigate problems, and review vulnerabilities via the Dynatrace remote MCP server.",
   "homepage": "https://www.dynatrace.com/",
-  "logo": "logo.svg",
+  "logo": "logo.png",
   "keywords": [
     "Monitoring & Analytics"
   ],
